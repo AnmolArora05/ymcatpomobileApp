@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/common_singin_btn_light_text_pressed" />
+
+    <!-- You can insert your own image assets here -->
+     <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/ymca"
+            />
+    </item>
+
+</layer-list>
